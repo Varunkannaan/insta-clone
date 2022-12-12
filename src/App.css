@@ -1,0 +1,133 @@
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.has-search .form-control {
+    padding-left: 2.25rem;
+    background-color: #efefef;
+    font-weight: 350;
+}
+
+.form-group {
+    width:116.5% !important;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.15rem;
+    text-align: center;
+    pointer-events: none;
+    color: #8e8e8e;
+}
+
+.btn-primary {
+    background-color: #0095f6 !important;
+    border: 0 !important;
+    font-weight: 650 !important;
+    font-size: 14px !important;
+    border-radius: 4px !important;
+}
+
+.btn-outline-primary {
+    font-weight: 650 !important;
+    color: #0095f6 !important;
+    border: 0 !important;
+    font-size: 14px !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: white !important;
+}
+
+.pro {
+    margin-top: 90px;
+}
+
+.cent {
+    display: block;
+    margin-left: 270px;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.txt {
+    padding-left: 66px;
+    font-size: 28px;
+    font-weight: 350;
+}
+
+.txt1 {
+    padding-left: 66px;
+    font-weight: 350;
+}
+
+.txt2{
+    color: #00376b;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.txt2:hover{
+    color: #00376b;
+    text-decoration: underline;
+}
+
+.btn-outline-secondary{
+    border: 1px solid;
+    border-color: #e8e8e8;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #000000 !important;
+    font-weight: bold;
+}
+
+.btn-outline-secondary:hover{
+    background-color: white;
+    color: #000000;
+    border-color: #e8e8e8;
+}
+
+.dot {
+    border: 0;
+    background-color: transparent;
+}
+
+.lyn {
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+}
+
+.txt3{
+    color: #8e8e8e;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.txt3:hover{
+    color: #000000;
+}
+
+.txt3:active{
+    color: #000000 !important;
+}
+
+.txt3:focus{
+    margin-top: -1px;
+    border-top: 1px solid #000000;
+    color: #000000 !important;
+}
+
+.status {
+    border: 1px solid #000000;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
